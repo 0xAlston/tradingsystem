@@ -1,0 +1,3 @@
+/Users/guixuebin/Documents/OOP_in_Finance_Final_Proj/trading_system/cmake-build-debug/CMakeFiles/trading_system.dir
+/Users/guixuebin/Documents/OOP_in_Finance_Final_Proj/trading_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guixuebin/Documents/OOP_in_Finance_Final_Proj/trading_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
